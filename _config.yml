@@ -128,3 +128,5 @@ intake:
       - type: source
         name: entry.90307167
         label: Funding Source
+
+theme: jekyll-theme-hacker
